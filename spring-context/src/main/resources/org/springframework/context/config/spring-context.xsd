@@ -223,7 +223,7 @@
 	@Autowired, @PostConstruct, @PreDestroy, @Resource, @PersistenceContext and @PersistenceUnit
 	annotations in the component classes, which is usually desired for autodetected components
 	(without external configuration). Turn off the 'annotation-config' attribute to deactivate
-	this default behavior, for example in order to use custom BeanPostProcessor definitions
+	this default behavior, for example in order to use custom beanPostProcessor definitions
 	for handling those annotations.
 
 	Note: You may use placeholders in package paths, but only resolved against system

@@ -1,0 +1,8 @@
+model/Person.java
+ model.Person
+beanFactoryPostProcessor/MyBeanDefinitionRegistryPostProcessor.java
+ beanFactoryPostProcessor.MyBeanDefinitionRegistryPostProcessor
+annotationConfig/MyConfig.java
+ annotationConfig.MyConfig
+MyApplication.java
+ MyApplication
